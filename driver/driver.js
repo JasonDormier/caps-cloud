@@ -14,7 +14,7 @@ const params = {
   MessageAttributeNames: [
     'All',
   ],
-  queueUrl: queueUrl,
+  QueueUrl: queueUrl,
   VisibilityTimeout: 20,
   WaitTimeSeconds: 0,
 };
